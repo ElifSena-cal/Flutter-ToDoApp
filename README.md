@@ -1,6 +1,6 @@
 # Flutter-ToDoApp
 
-A new Flutter project.
+A Flutter project application that make use of the state manager GetX.
 
 ## Getting Started
 
