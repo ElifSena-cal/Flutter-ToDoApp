@@ -16,14 +16,18 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 this project https://www.youtube.com/c/dbestech
 Made using the video on his channel
-![Resim3](https://user-images.githubusercontent.com/66389332/187091908-d2379e18-2586-47c5-ad39-bbb6532b842b.png)
-![Resim4](https://user-images.githubusercontent.com/66389332/187091894-d0572a7e-d65f-48b1-aaee-ec9502979305.png)
 
-![Resim5](https://user-images.githubusercontent.com/66389332/187091889-9ddbe4b2-0ad2-4290-b3b4-4120c92f4add.png)
+![image](https://user-images.githubusercontent.com/66389332/187091993-4038d65b-38ae-4de1-b672-2f0c19873da1.png)
+![image](https://user-images.githubusercontent.com/66389332/187091996-5ff392ca-5474-4b87-8b81-03a998fb7b2e.png)
+![image](https://user-images.githubusercontent.com/66389332/187091998-9d9d95fc-35e0-4368-8405-08431455f946.png)
+![image](https://user-images.githubusercontent.com/66389332/187092000-fc3f43ba-3779-4e82-8876-45b939708b45.png)
+![image](https://user-images.githubusercontent.com/66389332/187092004-8da1ddaf-ed09-463e-b3cf-cd93276bedbb.png)
+![image](https://user-images.githubusercontent.com/66389332/187092010-30d80492-203c-435c-8e71-a835082274af.png)
 
-![Resim6](https://user-images.githubusercontent.com/66389332/187091915-62f417ed-11af-4ad9-ae44-6780ccf188ac.png)
-![Resim1](https://user-images.githubusercontent.com/66389332/187091919-43c4a401-ef4d-49a9-a195-11f3e370f85f.png)
-![Resim2](https://user-images.githubusercontent.com/66389332/187091921-1c4f6975-982e-4c19-a6a7-6bca5f5bb28e.png)
+
+
+
+
 
 
 
